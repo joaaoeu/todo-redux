@@ -1,6 +1,6 @@
 # To Do Redux
 
-Just testing redux.
+Just testing redux and reactotron.
 
 ## License
 
